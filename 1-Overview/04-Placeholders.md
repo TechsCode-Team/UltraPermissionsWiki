@@ -2,33 +2,33 @@
 Below is a list of all available placeholders. Keep in mind these placeholders require [*PlaceholderAPI*](https://www.spigotmc.org/resources/6245/) & a plugin that supports the API!
 <br>
 
-* **``%uperms_has_permission_(permission)%``** Ex. ``true`` or ``false``
+* **``%uperms_has_permission_(permission)%``**
   Shows if the player has the specific permission.
-* **``%uperms_has_group_(group)%``** Ex. ``true`` or ``false``
+* **``%uperms_has_group_(group)%``**
   Shows if the player is member of the specific group.
-* **``%uperms_inherits_group%``** Ex. ``direct`` or ``indirect``
+* **``%uperms_inherits_group%``**
   Shows if the player inherits directly from a group or indirectly via other group.
-* **``%uperms_prefixes%``** Ex. ``&e&lOwner &a&lMerchant``
+* **``%uperms_prefixes%``**
   Shows all Prefixes that a Player has seperated by a space.
-* **``%uperms_prefix%``** Ex. ``&e&lOwner``
-  Shows the first Prefix that a player has.
+* **``%uperms_prefix%``**
+  Shows the first prefix that a player has.
 * **``%uperms_prefix_color%``** 
   Shows the Prefix Color of the first group.
-* **``%uperms_rank%``** Ex. ``Owner``
+* **``%uperms_rank%``**
   Shows the name of the first rank that the player has.
-* **``%uperms_ranks%``** Ex. ``Owner, Admin...`` 
+* **``%uperms_ranks%``**
   Shows the the name of all ranks that the player has.
-* **``%uperms_rank_timer%``** Ex. ``3 minutes, 20 seconds``
+* **``%uperms_rank_timer%``**
   Shows the remaining time of the first temporary group.
-* **``%uperms_rank_timer_(group)%``** Ex. ``3 minutes, 20 seconds`` or ``Permanent``
+* **``%uperms_rank_timer_(group)%``**
   Shows the remaining time of a specific group.
-* **``%uperms_secondaryprefix%``** Ex. ``&a&lMerchant``
+* **``%uperms_secondaryprefix%``**
   Same as *%uperms_prefix%* but with the second group.
-* **``%uperms_secondarysuffix%``** Ex. ``&a``
+* **``%uperms_secondarysuffix%``**
   Same as *%uperms_suffix%* but with the second group.
-* **``%uperms_suffixes%``** Ex. ``&e &a``
+* **``%uperms_suffixes%``**
   Shows all Suffixes that a Player has seperated by a space.
-* **``%uperms_suffix%``** Ex. ``&e``
+* **``%uperms_suffix%``**
   Shows the first Suffix that a player has.
 * **``%uperms_suffix_color%``** 
   Shows the Prefix Color of the first group.
