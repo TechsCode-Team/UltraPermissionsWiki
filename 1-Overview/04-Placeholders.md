@@ -2,13 +2,13 @@
 Below is a list of all available placeholders. Keep in mind these placeholders require [*PlaceholderAPI*](https://www.spigotmc.org/resources/6245/) & a plugin that supports the API!
 <br>
 
-* **%``uperms_has_permission_(permission)``%** Ex. ``true`` or ``false``
+* **``%uperms_has_permission_(permission)%``** Ex. ``true`` or ``false``
   Shows if the player has the specific permission.
-* **%``uperms_has_group_(group)%``** Ex. ``true`` or ``false``
+* **``%uperms_has_group_(group)%``** Ex. ``true`` or ``false``
   Shows if the player is member of the specific group.
-* **%``uperms_inherits_group%``** Ex. ``direct`` or ``indirect``
+* **``%uperms_inherits_group%``** Ex. ``direct`` or ``indirect``
   Shows if the player inherits directly from a group or indirectly via other group.
-* **%``uperms_prefixes%``** Ex. ``&e&lOwner &a&lMerchant``
+* **``%uperms_prefixes%``** Ex. ``&e&lOwner &a&lMerchant``
   Shows all Prefixes that a Player has seperated by a space.
 * **``%uperms_prefix%``** Ex. ``&e&lOwner``
   Shows the first Prefix that a player has.
