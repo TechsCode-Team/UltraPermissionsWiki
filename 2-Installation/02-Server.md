@@ -3,6 +3,7 @@ Once you have downloaded the latest version of Ultra Permissions, put its .jar f
 <br>
 
 ***Note:*** *Make sure to stop the server before doing this.*
+<br>
 
 When the .jar has been uploaded, you can now start your server.
 <br>
