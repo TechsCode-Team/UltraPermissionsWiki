@@ -4,6 +4,7 @@ You will need either **SpigotMC, PaperMC** or [**a similar fork**](https://githu
 
 ## Server Version
 Ultra Permissions has been tested and supported on versions between **1.8.8 - 1.17.X**. Versions out of this range are not be supported and will not recieve support.
+<br>
 
 ***Note:*** *Newly released versions are tested on the latest version of Spigot.*
 <br>
