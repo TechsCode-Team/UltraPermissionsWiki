@@ -13,11 +13,10 @@ When your server has been started there should be a new folder called Ultra Perm
 
 ## Testing the plugin
 If you have followed the steps above the plugin is now running. 
-You can now use `/uperms`
+You can now use `/uperms` and start making your groups.
 <br>
 
-***NOTE:*** *Make sure to make your self super admin with the command*
-            *`upc AddSuperAdmin <Player>` inside the console!*
+***NOTE:*** *Make sure to make your self super admin with the command `upc AddSuperAdmin <Player>` inside the console!*
 <br>
 
 For proxy installation please continue to the proxy installation part.
