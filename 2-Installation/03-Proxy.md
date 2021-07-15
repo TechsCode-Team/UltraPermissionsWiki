@@ -29,7 +29,8 @@ If your plugin is not connecting to MySQL or is taking to long to test the conne
 <br>
 
 If your proxy isn't connected you need to do it manually.
-First, we need the MySQL key from a connected server. This can be found in there *\SERVER_DIRECOTRY\plugins\UltraPermissions*. 
+First, we need the MySQL key from a connected server. 
+This can be found in there *\SERVER_DIRECOTRY\plugins\UltraPermissions*. 
 Here you need to copy the MySQL key.
 <br>
 
