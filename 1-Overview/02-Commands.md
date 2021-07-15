@@ -12,7 +12,7 @@ Here is a list of all the commands that can be used.
 * **/upc AddPlayerPermission <User> <Permission>**
     Adds a permission to a player.
 * **/upc AddSuperAdmin <User>**
-    Adding someone as a Superadmin making them able to do everything within UltraPermissions.
+    Gives them SuperAdmin access
 * **/upc CopyGroup <Group> <copyGroupName>**
     Copy a group
 * **/upc createGroup <groupName>**
