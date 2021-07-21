@@ -22,5 +22,6 @@ Here are all the default features from Ultra Permissions.
     So far, we have 11 languages supported and more can be added if needed
 * **Per Player Prefix/Suffix**
     You can create a prefix or suffix for a specific player without the need of a group
+    *You can set gradient prefixes with `{#RRGGBB>}Pre{#RRGGBB<>}fix{#RRGGBB<}`*
 * **Offline Users**
     No need to wait for a user to be online, if they joined before, you can modify their Permissions or Ranks
