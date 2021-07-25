@@ -8,7 +8,7 @@ Here is a list of all the commands that can be used.
 * ``/upc AddGroup <User> <Group> [World|Server] [Time]``
     Add a group to a user
 * ``/upc AddGroupPermission <Group> [-]<Permission>``
-    Add a permission to a group <The `-` makes the permission negative>
+    Add a permission to a group (The `-` makes the permission negative)
 * ``/upc AddPlayerPermission <User> <Permission>``
     Adds a permission to a player.
 * ``/upc AddSuperAdmin <User>``
@@ -54,7 +54,7 @@ Here is a list of all the commands that can be used.
 * ``/upc SetGroupSuffix``
     Set a groups suffix
 * ``/upc TransferAccount <All|Groups|Permissions> <Append|Overwrite> <From> <To>``
-    Transferes the selected data from user <From> to user <To>. Append will append the new incoming datas on the existing one datas of the <To> user. Overwrite will remove all existing datas and add the new incoming datas.
+    Transferes the selected data from user ``<From>`` to user ``<To>``. Append will append the new incoming datas on the existing one datas of the ``<To>`` user. Overwrite will remove all existing datas and add the new incoming datas.
 * ``/upc Transfer <File|MySQL> <File|MySQL>``
     Transfers storage to either MySQL or File
 <br>
