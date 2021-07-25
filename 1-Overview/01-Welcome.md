@@ -3,7 +3,7 @@ Welcome to the Wiki page of Ultra Permissions, where you can find all the inform
 <br>
 
 ## Contact
-You can communicate with our support team by joining our [Discord](https://discord.gg/techscode). It is the only way we can give you support.
+You can communicate with our support team by joining our [Discord](https://discord.gg/techscode). It is the only way we can give you support once you have verified your purchase.
 <br>
 
 ## What can you find on the wiki?
