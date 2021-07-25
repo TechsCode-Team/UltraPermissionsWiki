@@ -17,5 +17,5 @@ When you have connected a plugin to MySQL you need to restart your server.
 When you have repeated this procces for all of your servers your plugin is now proxy ready.
 <br>
 
-``NOTE:`` If your database has not been connected or the test is taking to long, you have entered the wrong credentials.
+**``NOTE:``** If your database has not been connected or the test is taking to long, you have entered the wrong credentials.
 <br>
