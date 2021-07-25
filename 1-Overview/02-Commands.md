@@ -1,6 +1,6 @@
 # Commands
 Here is a list of all the commands that can be used.
-``NOTE:`` All commands require `SuperAdmin access`.
+**``NOTE:`` All commands require `SuperAdmin access`.**
 <br>
 
 * ``/uperms``

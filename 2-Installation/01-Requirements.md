@@ -6,7 +6,7 @@ You will need either **SpigotMC, PaperMC** or [**a similar fork**](https://githu
 Ultra Permissions has been tested and supported on versions between **1.8.8 - 1.17.X**. Versions out of this range are not be supported and will not recieve support.
 <br>
 
-**``NOTE:``** Our plugins do not officially support offline-mode!
+**``NOTE:`` Our plugins do not officially support offline-mode!**
 <br>
 
 # Download The Latest Build
