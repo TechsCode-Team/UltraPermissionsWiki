@@ -3,7 +3,7 @@ Here is a list of all the commands that can be used.
 ``NOTE:`` All commands require `SuperAdmin access`.
 <br>
 
-* ``/uperms````
+* ``/uperms``
     To open the Administrative GUI
 * ``/upc AddGroup <User> <Group> [World|Server] [Time]``
     Add a group to a user
