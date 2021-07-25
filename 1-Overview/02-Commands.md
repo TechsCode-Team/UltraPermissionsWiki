@@ -1,11 +1,11 @@
 # Commands
 Here is a list of all the commands that can be used.
 **NOTE:** All commands require `superadmin access`
-(br)
+
 
 * **/uperms**
     To open the Administrative GUI
-* **/upc AddGroup (User) (Group) {World|Server} {Time}**
+* ``/upc AddGroup <User> <Group> [World|Server] [Time]``
     Add a group to a user
 * **/upc AddGroupPermission (Group) {-}(Permission)**
     Add a permission to a group (The `-` makes the permission negative)
@@ -58,7 +58,6 @@ Here is a list of all the commands that can be used.
 * **/upc Transfer (File|MySQL) (File|MySQL)**
     Transfers storage to either MySQL or File
 
- (br)
 
 ## Symbols:
  - () = Required
