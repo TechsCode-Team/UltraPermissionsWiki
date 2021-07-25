@@ -1,12 +1,12 @@
 # Server Requirements
-You will need either **SpigotMC, PaperMC** or [**a similar fork**](https://github.com/SpiritenHasArrived/MC/blob/main/Server_Side/server_jars.md#bukkit--a-z)** to run Ultra Permissions smoothly. *We recommend using* **[PaperMC](https://papermc.io/downloads)**
+You will need either **SpigotMC, PaperMC** or [**a similar fork**](https://github.com/SpiritenHasArrived/MC/blob/main/Server_Side/server_jars.md#bukkit--a-z) to run Ultra Permissions smoothly. We recommend using **[PaperMC](https://papermc.io/downloads)**
 <br>
 
 ## Server Version
 Ultra Permissions has been tested and supported on versions between **1.8.8 - 1.17.X**. Versions out of this range are not be supported and will not recieve support.
 <br>
 
-***Note:*** *Newly released versions are tested on the latest version of Spigot.*
+``Note:`` Our plugins do not officially support offline-mode!
 <br>
 
 # Download The Latest Build
