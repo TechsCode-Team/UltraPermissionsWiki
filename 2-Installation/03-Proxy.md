@@ -11,9 +11,17 @@ Once the plugin has been installed on the proxy, we need to set up the MySQL con
 ## Connecting to MySQL
 To connect your server to MySQL you need to join your server and use
 ***/uperms >> Settings >> MySQL Database >> Setup MySQL >> Credentials***
-Here you need to fill in the credentials *(info)* of your database. 
+<br>
+
+Here you need to fill in the credentials *(info)* of your database.
+<br>
+
 Once you have filled in all the credentials you can now test the connection and confirm it.
+<br>
+
 When you have connected a plugin to MySQL you need to restart your server.
+<br>
+
 When you have repeated this procces for all of your servers your plugin is now proxy ready.
 <br>
 
