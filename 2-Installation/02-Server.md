@@ -19,4 +19,4 @@ You can now use `/uperms` and start making your groups.
 **``NOTE:`` Make sure to make yourself super admin with the command `upc AddSuperAdmin <Player>` inside the console!**
 <br>
 
-For proxy installation please continue to the proxy installation part.
+**``NOTE:`` For proxy installation please continue to the proxy installation part.**
