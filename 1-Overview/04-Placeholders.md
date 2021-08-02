@@ -1,5 +1,5 @@
 # Placeholders
-Below is a list of all available placeholders. Keep in mind these placeholders require [*PlaceholderAPI*](https://www.spigotmc.org/resources/6245/) & a plugin that supports the API!
+Below is a list of all available placeholders. Keep in mind these placeholders require **[PlaceholderAPI](https://www.spigotmc.org/resources/6245/)** & a plugin that supports the API!
 <br>
 
 * `%uperms_has_permission_(permission)%`
