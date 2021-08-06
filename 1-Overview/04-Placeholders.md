@@ -32,3 +32,5 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
   Shows the first Suffix that a player has.
 * `%uperms_suffix_color%` 
   Shows the Prefix Color of the first group.
+* `%uperms_<user>_permission_timer_<permission>%`
+  Shows the remaining time of the specified permission of a specific user
