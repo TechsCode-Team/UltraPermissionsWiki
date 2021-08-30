@@ -5,7 +5,7 @@ There are a variety of proxies out there. BungeeCord is the usual one that is mo
 For a proxy installation, you need to repeat the installation process for every server. Once you have finished installing the plugin on all the back-end servers, we need to install it onto the proxy.
 <br>
 
-Once the plugin has is installed on the proxy, we need to set up the MySQL connections inside the back-end servers.
+Once the plugin has been installed on the proxy, we need to set up the MySQL connections inside the back-end servers.
 <br>
 
 ## Connecting to MySQL
