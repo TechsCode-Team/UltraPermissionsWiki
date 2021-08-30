@@ -25,4 +25,7 @@ When you have connected a plugin to MySQL, you need to restart your server.
 When you have repeated this process for all of your servers, your plugin is now proxy-ready.
 <br>
 
+Once you have already made groups and set permissions without bungee you can use ***/upc transfer file mysql*** to transfer the permissions, users and groups.
+<br>
+
 **`NOTE:` If your database has not connected or the test takes too long, you have entered the wrong credentials.**
