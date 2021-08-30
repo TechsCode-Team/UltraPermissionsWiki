@@ -19,10 +19,7 @@ Here you will need to fill in the credentials *(info)* of your database.
 Once you have filled in all the credentials, you can now test the connection and confirm it.
 <br>
 
-When you have connected a plugin to MySQL, you need to restart your server.
-<br>
-
-When you have repeated this process for all of your servers, your plugin is now proxy-ready.
+When you have connected all server with the same database (Inside uperms) you need to restart all the servers including the proxy (Bungee).
 <br>
 
 Once you have already made groups and set permissions without bungee you can use ***/upc transfer file mysql*** to transfer the permissions, users and groups.
