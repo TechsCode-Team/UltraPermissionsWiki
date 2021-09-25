@@ -7,15 +7,15 @@ Here is a list of all the commands that can be used.
     To open the Administrative GUI
 * `/upc AddGroup <User> <Group> [World|Server] [Time]`
     Add a group to a user
-* `/upc AddGroupPermission <Group> [-]<Permission>`
+* `/upc AddGroupPermission <Group> [-]<Permission> [Server]`
     Add a permission to a group (The `-` makes the permission negative)
-* `/upc AddPlayerPermission <User> <Permission>`
+* `/upc AddPlayerPermission <User> <Permission> [Server]`
     Adds a permission to a player.
 * `/upc AddSuperAdmin <User>`
     Gives them SuperAdmin access
 * `/upc CopyGroup <Group> <copyGroupName>`
     Copy a group
-* `/upc createGroup <groupName>`
+* `/upc createGroup <groupName> [Server]`
     Creates a group
 * `/upc DeleteGroup <Group>`
     Delete a group
