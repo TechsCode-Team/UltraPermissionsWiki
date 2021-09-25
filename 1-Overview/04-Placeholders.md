@@ -21,7 +21,9 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
 * `%uperms_rank_timer%`
   Shows the remaining time of the first temporary group.
 * `%uperms_rank_timer_(group)%`
-  Shows the remaining time of a specific group.
+  Shows the remaining time of a specific group. (Days, Hours)
+* `%uperms_rank_timer_detailed_(group)%`
+  Shows the detailed remaining time of a specific group. (Days, Hours, Minutes, Seconds)
 * `%uperms_secondaryprefix%`
   Same as *%uperms_prefix%* but with the second group.
 * `%uperms_secondarysuffix%`
@@ -33,4 +35,6 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
 * `%uperms_suffix_color%` 
   Shows the Prefix Color of the first group.
 * `%uperms_<user>_permission_timer_<permission>%`
-  Shows the remaining time of the specified permission of a specific user
+  Shows the remaining time of the specified permission of a specific user (Days, Hours)
+* `%uperms_<user>_permission_timer_detailed_<permission>%`
+  Shows the detailed remaining time of the specified permission of a specific user (Days, Hours, Minutes, Seconds)
