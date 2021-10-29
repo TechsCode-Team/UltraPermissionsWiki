@@ -15,3 +15,17 @@
 <br>
 
 **`NOTE:` This key can continue on a second line, so make sure to copy it all!**
+<br>
+
+**My bungee permissions are not wokring.**
+<br>
+
+* If your bungeecord / proxy permissions are not working then it's possible you added via the permissions via the wrong way.
+  How do I add them correctly?
+  First go to your permission viewer in /uperms (group / user), are the bungee / proxy permissions green? If yes go to second step.
+  Second, we need to delete first the green bungee / proxy permissions.
+  Now the not working permissions are gone (Green bungee/proxy permissions), Go to your permission viewer again.
+  In your permission viewer press with a right click on the *NameTag*.
+  Now you can add the bungee/proxy permission via the chat.
+  If you have done correctly it should now show up in the permission viewer in **Red**.
+<br>
