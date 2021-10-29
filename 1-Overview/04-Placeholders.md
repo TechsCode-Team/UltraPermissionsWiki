@@ -19,7 +19,9 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
 * `%uperms_ranks%`
   Shows the the name of all ranks that the player has.
 * `%uperms_rank_timer%`
-  Shows the remaining time of the first temporary group.
+  Shows the remaining time of the first temporary group. (Days, Hours)
+* `%uperms_rank_timer_detailed%`
+  Shows the remaining time of the first temporary group. (Days, Hours, Minutes, Seconds)
 * `%uperms_rank_timer_(group)%`
   Shows the remaining time of a specific group. (Days, Hours)
 * `%uperms_rank_timer_detailed_(group)%`
