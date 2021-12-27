@@ -1,5 +1,6 @@
 # Overview
 Below you can find all the available features of Ultra Permissions. If you want to request new features feel free to add them to our [feedback website](https://feedback.techscode.com/t/ultra-permissions)
+<br>
 
 # Main features of Ultra Permissions
 <br>

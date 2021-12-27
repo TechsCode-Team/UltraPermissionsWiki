@@ -7,12 +7,14 @@ You can communicate with our support team by joining our **[Discord](https://dis
 <br>
 
 ## What can you find on the wiki?
-- [Commands](/wiki/overview) - The list of commands
+- [Commands](/wiki/overview#commands) - The list of commands
 - [Installation Guide](/wiki/installation) - A quick guide on how to install Ultra Permissions
 - [Features](/wiki/features) - A list with all the features of Ultra Permissions
 - [API](/wiki/api) - A guide on how to use our API
+<br>
+<br>
 
-# Commands
+# Commands {#commands}
 Here is a list of all the commands that can be used.
 **`NOTE:` All commands require `SuperAdmin access`.**
 <br>
@@ -76,6 +78,7 @@ Here is a list of all the commands that can be used.
 ## Symbols:
 - <> = Required
 - [] = Optional
+<br>
 
 # Placeholders
 Below is a list of all available placeholders. Keep in mind these placeholders require **[PlaceholderAPI](https://www.spigotmc.org/resources/6245/)** & a plugin that supports the API!
