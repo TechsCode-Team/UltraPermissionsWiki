@@ -26,5 +26,5 @@
   In your permission viewer press with a right click on the *NameTag*.
 <br>
 
-  Now you can add the bungee/proxy permission via the chat.
+* Now you can add the bungee/proxy permission via the chat.
   If you have done correctly it should now show up in the permission viewer in **Red**.
