@@ -15,7 +15,7 @@
 **`NOTE:` This key can continue on a second line, so make sure to copy it all!**
 <br>
 
-**`My bungee permissions are not wokring`**
+**`My bungee permissions are not working`**
 * If your bungeecord / proxy permissions are not working then it's possible you added via the permissions via the wrong way.
   How do I add them correctly?
   First go to your permission viewer in /uperms (group / user), are the bungee / proxy permissions green? If yes go to second step.
