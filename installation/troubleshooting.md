@@ -2,7 +2,7 @@
 <br>
 
 **`My plugin is not connecting to MySQL`**
-* If your plugin is not connecting to MySQL or is taking to long to test the connection if means that you have filled in the wrong credentials, or haven't setup your MySQL correctly on your hosting provider's end.
+* If your plugin is not connecting to MySQL or is taking to long to test the connection it means that you have filled in the wrong credentials, or haven't setup your MySQL correctly on your hosting provider's end.
 <br>
 
 **`Proxy isn't connected`**
@@ -16,7 +16,7 @@
 <br>
 
 **`My bungee permissions are not working`**
-* If your bungeecord / proxy permissions are not working then it's possible you added via the permissions via the wrong way.
+* If your bungeecord / proxy permissions are not working then it's possible you added the permissions via the wrong way.
   How do I add them correctly?
   First go to your permission viewer in /uperms (group / user), are the bungee / proxy permissions green? If yes go to second step.
 <br>
