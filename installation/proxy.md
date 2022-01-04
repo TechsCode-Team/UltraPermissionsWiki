@@ -16,7 +16,7 @@ Once the plugin has been installed on the proxy, and that it's loading as expect
 <br>
 
 ## Connecting to MySQL
-As mentionned above, a MySQL database is needed to sync UltraPermissions accross servers. To start your syncing process, connect to your server in-game, and open the plugin's GUI by executing the command `/uboards` in chat.
+As mentionned above, a MySQL database is needed to sync UltraPermissions accross servers. To start your syncing process, connect to your server in-game, and open the plugin's GUI by executing the command `/uperms` in chat.
 <br>
 
 Then click on the Hook to extend the gui and see more options.
@@ -37,6 +37,7 @@ Then click on the Paper in the middle-left of the GUI. *(Called `Credentials`)*
 This will close the GUI and ask you to enter your database's credentials.
 
 Here you will need to fill in the credentials *(info)* of your database. By typing them in the chat in this order:
+<br>
 - Database IP - Format: 0.0.0.0
 - Database Port - Usually: 3306
 - Database Name - Depends on what you named your database.
@@ -45,7 +46,7 @@ Here you will need to fill in the credentials *(info)* of your database. By typi
 <br>
 
 *Here's a shortend version of the proxy installation process:*
-`/uboards >> Settings >> MySQL Database >> Setup MySQL >> Credentials`
+`/uperms >> Expand GUI >> Settings >> MySQL Database >> Setup MySQL >> Credentials`
 
 Once you have filled in all the credentials, you can now test the connection by clicking on the Emerald Ore in the middle-right of the GUI and confirm it by clicking a second time on the same slot. If your database has not connected or the test takes too long, you have entered the wrong credentials.
 <br>
