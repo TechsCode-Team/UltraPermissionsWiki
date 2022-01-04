@@ -10,13 +10,13 @@ The process is similar as the Spigot installation:
 - Upload the plugin.
 - Start your server.
 
-`Note:` *You will need a MySQL database to be able to use UltraPermissions in proxy mode. Depending on your host, the process can vary, and will not be mentionned nor explained here.*
+`Note:` *You will need a MySQL database to be able to use UltraPermissions in proxy mode. Depending on your host, the process can vary, and will not be mentionned or explained here.*
 
 Once the plugin has been installed on the proxy, and that it's loading as expected, we need to set up the MySQL connections inside the back-end servers. This part is important, as it will synchronize all your data accross your spigot servers.
 <br>
 
 ## Connecting to MySQL
-As mentionned above, a MySQL database is needed to sync UltraCustomizer accross servers. To start your syncing process, connect to your server in-game, and open the plugin's GUI by executing the command `/uperms` in chat.
+As mentionned above, a MySQL database is needed to sync UltraPermissions accross servers. To start your syncing process, connect to your server in-game, and open the plugin's GUI by executing the command `/uboards` in chat.
 <br>
 
 Then click on the Hook to extend the gui and see more options.
@@ -45,7 +45,7 @@ Here you will need to fill in the credentials *(info)* of your database. By typi
 <br>
 
 *Here's a shortend version of the proxy installation process:*
-`/uperms >> Extend GUI >> Settings >> MySQL Database >> Setup MySQL >> Credentials`
+`/uboards >> Settings >> MySQL Database >> Setup MySQL >> Credentials`
 
 Once you have filled in all the credentials, you can now test the connection by clicking on the Emerald Ore in the middle-right of the GUI and confirm it by clicking a second time on the same slot. If your database has not connected or the test takes too long, you have entered the wrong credentials.
 <br>
