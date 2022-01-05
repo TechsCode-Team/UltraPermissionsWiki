@@ -5,7 +5,7 @@ Below you can find all the available features of Ultra Permissions. If you want 
 # Main features of Ultra Permissions
 <br>
 
-Here are all the default features from Ultra Permissions.
+Here are all the features from Ultra Permissions.
 <br>
 
 * **`Permission Suggestions`**
