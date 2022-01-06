@@ -16,4 +16,4 @@ You should now be able to do `/uperms` to open the GUI.
 If you see a gui, that means you are good to go!
 <br>
 
-`NOTE:` *Make sure to make yourself super admin with the command `/upc AddSuperAdmin <Player>` inside the console! Or you will not be able to use the plugin.*
+`NOTE:` *Make sure to make yourself super admin with the command `upc AddSuperAdmin <Player>` inside the console! Or you will not be able to use the plugin.*
