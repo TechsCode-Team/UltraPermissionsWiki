@@ -7,8 +7,8 @@ You can communicate with our support team by joining our **[Discord](https://dis
 <br>
 
 ## What can you find on the wiki?
-- [Commands](./overview/commands.md) - The list of commands
-- [Placeholders](./overview/placeholders.md) - The list of placeholders
+- [Commands](./overview/commands) - The list of commands
+- [Placeholders](./overview/placeholders) - The list of placeholders
 - [Installation Guide](./installation) - A quick guide on how to install Ultra Permissions
 - [Features](./features) - A list with all the features of Ultra Permissions
 - [API](./api) - A guide on how to use our API
