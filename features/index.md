@@ -32,4 +32,3 @@ Here are all the features from Ultra Permissions.
   HEXCODE support and Gradient support while formatting the chat format and the prefix.
   *HEXCODE: `{#RRBBGG}Prefix`*
   *Gradient: `{#RRBBGG>}Prefix{#RRBBGG<}`*
-  
