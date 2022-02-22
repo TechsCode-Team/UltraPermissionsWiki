@@ -29,8 +29,7 @@ Here are all the features from Ultra Permissions.
 * **`Offline Users`**
   No need to wait for a user to be online, if they joined before, you can modify their Permissions or Ranks
 * **`HEX & Gradient support`**
-  HEXCODE support and Gradient support while formatting the currency. (Description and Format)
-  *Gradient: `{#RRBBGG>}Insert a Description{#RRBBGG<}`*
-  *Gradient: `{#RRBBGG>}{amount} Gem(s){#RRBBGG<}`*
-  *HEXCODE: `{#RRBBGG}Insert a Description`*
-  *HEXCODE: `{#RRBBGG}{amount} Gem(s)`*
+  HEXCODE support and Gradient support while formatting the chat format and the prefix.
+  *HEXCODE: `{#RRBBGG}Prefix`*
+  *Gradient: `{#RRBBGG>}Prefix{#RRBBGG<}`*
+  
