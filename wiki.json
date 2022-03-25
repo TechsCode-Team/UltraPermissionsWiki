@@ -35,6 +35,11 @@
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
       },
+      "language": {
+        "title":"Language",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
       "import": {
         "title":"Import",
         "prev": { "url": "", "title": "" },
