@@ -8,6 +8,8 @@ Below you can find all the frequently asked questions of Ultra Permissions. If y
 Here are all the frequently asked questions from Ultra Permissions.
 <br>
 
+* **`How can i make suggestions?`**
+  You can make suggestions at our [feedback repository](https://github.com/TechsCode-Team/Feedback/discussions/categories/suggestions)
 * **`Does it support offline-mode?`**
   No, Ultra Permissions Doesn't support offline mode because we store the user data via UUID
 * **`Does the plugin support Velocity?`**
