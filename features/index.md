@@ -30,5 +30,5 @@ Here are all the features from Ultra Permissions.
   No need to wait for a user to be online, if they joined before, you can modify their Permissions or Ranks
 * **`HEX & Gradient support`**
   HEXCODE support and Gradient support while formatting the chat format and the prefix.
-  *HEXCODE: `{#RRBBGG}Prefix`*
-  *Gradient: `{#RRBBGG>}Prefix{#RRBBGG<}`*
+  *HEXCODE: `{#RRGGBB}Prefix`*
+  *Gradient: `{#RRGGBB>}Prefix{#RRGGBB<}`*
