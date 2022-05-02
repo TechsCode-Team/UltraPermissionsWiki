@@ -40,3 +40,6 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
   Shows the remaining time of the specified permission of a specific user (Days, Hours)
 * `%uperms_<user>_permission_timer_detailed_<permission>%`
   Shows the detailed remaining time of the specified permission of a specific user (Days, Hours, Minutes, Seconds)
+<br>
+
+**`NOTE:` When using a placeholder containing an argument that you need to fill (Ex. "`<group>`"), make sure to remove the <>**
