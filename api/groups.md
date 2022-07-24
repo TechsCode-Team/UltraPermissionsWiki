@@ -35,8 +35,8 @@ You can of course leave out any of the variables and still use the create method
 <br>
 
 ## Obtaining Groups
-To get all groups, you can use 
-```
+To get all groups, you can use
+```java
 api.getGroups()
 ```
 This returns a GroupList object. With this object you can filter depending on servers, worlds, priority, etc. You can also just use this as a normal ArrayList and filter it that way, or get a specific object.

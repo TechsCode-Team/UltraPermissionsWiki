@@ -5,8 +5,10 @@ This page contains a detailed guide on how to use our API.
 
 ## Obtaining the instance
 Once you have imported the API (see [Dependency](./api/dependency)), you must gain an instance of the API. 
+<br>
+
 This can be done by using:
-```
+```java
 UltraPermissionsAPI api = UltraPermissions.getAPI();
 ```
 <br>

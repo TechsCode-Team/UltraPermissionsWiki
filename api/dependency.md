@@ -39,7 +39,9 @@ dependencies {
 ## Obtaining the instance
 Once you have imported the API (see [Dependency](./api/dependency)), you must gain an instance of the API. 
 This can be done by using:
-```
+<br>
+
+```java
 UltraPermissionsAPI api = UltraPermissions.getAPI();
 ```
 <br>
