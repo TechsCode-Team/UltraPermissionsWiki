@@ -5,8 +5,9 @@ In the event that this does not work, it is reccomended to join discord and let 
 
 # Dependency Information
 ## Maven
-Repository: 
-```
+<br>
+
+```xml
 <repository>
         <id>techscode</id>
         <url>https://repo.techscode.com/repository/maven-releases/</url>
@@ -20,7 +21,9 @@ Repository:
 <br>
 
 ## Gradle
-```
+<br>
+
+```gradle
 repositories {
     maven {
       name = 'TechsCodeAPI'
