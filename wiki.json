@@ -79,7 +79,21 @@
     "prev": { "url": "", "title": "" },
     "next": { "url": "", "title": "" },
     "subItems": {
-
+      "dependency": {
+        "title": "Dependency",
+        "prev": { "url": "", "title": ""},
+        "next": { "url": "", "title": "" }
+      },
+      "groups": {
+        "title": "Groups",
+        "prev": { "url": "", "title": ""},
+        "next": { "url": "", "title": "" }
+      },
+      "permissions": {
+        "title": "Permissions",
+        "prev": { "url": "", "title": ""},
+        "next": { "url": "", "title": "" }
+      }
     }
   }
 }
