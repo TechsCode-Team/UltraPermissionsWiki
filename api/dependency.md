@@ -5,7 +5,6 @@ In the event that this does not work, it is reccomended to join discord and let 
 
 # Dependency Information
 ## Maven
-<br>
 
 ```xml
 <repository>
@@ -21,9 +20,7 @@ In the event that this does not work, it is reccomended to join discord and let 
 <br>
 
 ## Gradle
-<br>
-
-```gradle
+```groovy
 repositories {
     maven {
       name = 'TechsCodeAPI'
@@ -31,7 +28,7 @@ repositories {
     }
 }
 dependencies {
-    compileOnly 'me.TechsCode:UltraPermissionsAPI:uperms-get-latest-version'
+    compileOnly 'me.TechsCode:UltraPermissionsAPI:1.0.0'
 }
 ```
 <br>
@@ -46,4 +43,4 @@ UltraPermissionsAPI api = UltraPermissions.getAPI();
 ```
 <br>
 
-Note: It is reccomended to add UltraPermissions to the softdepend or depend section in plugin.yml, depending on your use. 
+Note: It is recommended to add UltraPermissions to the softDepend or depend section in plugin.yml, depending on your use. 
