@@ -79,8 +79,8 @@
     "prev": { "url": "", "title": "" },
     "next": { "url": "", "title": "" },
     "subItems": {
-      "dependency": {
-        "title": "Dependency",
+      "instance": {
+        "title": "Instance",
         "prev": { "url": "", "title": ""},
         "next": { "url": "", "title": "" }
       },
