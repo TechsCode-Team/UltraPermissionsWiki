@@ -10,6 +10,8 @@ Please see the [instance](./instance.md) guide if you haven't already obtained t
 - [Obtaining a Group](#obtaining-a-group)
   - [Get Group Information](#get-group-inormation)
 
+<br>
+
 # API methods
 
 ## Creating a Group
@@ -30,8 +32,8 @@ newGroup.create();
 ```
 **NOTE;** .id(int) is required because it is the plugin's group identifier. Duplicate IDs will cause problems!
 
-You can, however, ignore the following methods: [setIcon, setDefault, setPrefix, setSuffix, setPriority, setServer, setWorld]
-
+You can, however, ignore the following methods: `[setIcon, setDefault, setPrefix, setSuffix, setPriority, setServer, setWorld]`
+<br>
 `setIcon` needs an XMaterial. XMaterial is an enum that is used to retrieve the selected item's itemStack
 
 <br>
@@ -44,7 +46,9 @@ GroupList groups = upermsApi.getGroups()
 ```
 This method generates a list of all Groups. You are able to use this list to find the group you want to modify
 
-## Get Group Inormation
+<br>
+
+### Get Group Inormation
 To begin, we'll need to create a loop to find the group we want to edit/use.
 You can either A) alter/use the group directly, or B) save the group and use it later. In this example, we are saving the group in the `vipGroup` variable.
 ```java
