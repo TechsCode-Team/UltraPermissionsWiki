@@ -12,7 +12,6 @@ To retieve the instance you will need to add the following method to your class.
 
 ```java
 UltraPermissionsAPI api = UltraPermissions.getAPI();
-
 ```
 Now that we have the instance of the api we are able to do the following;
   - Permissinos | *List all permissions and add new once*
