@@ -15,7 +15,8 @@ By both importations you require to replace `{VERSION}` with the latest version 
 <repository>
         <id>techscode</id>
         <url>https://repo.techscode.com/repository/maven-releases/</url>
-    </repository>
+</repository>
+
 <dependency>
     <groupId>me.TechsCode</groupId>
     <artifactId>UltraPermissionsAPI</artifactId>
@@ -33,6 +34,7 @@ repositories {
         url = 'https://repo.techscode.com/repository/maven-releases/'
     }
 }
+
 dependencies {
     compileOnly 'me.TechsCode:UltraPermissionsAPI:{VERSION}'
 }
@@ -52,4 +54,4 @@ When using methods of our API in the startup of your plugin you will need to add
 
 <br>
 
-[**Next part; Using groups (ranks)**](./groups.md)
+[**Next part; Using groups (ranks)**](./api/groups.md)

@@ -14,6 +14,8 @@ Please see the [instance](./instance.md) guide if you haven't already obtained t
 
 # API methods
 
+<br>
+
 ## Creating a Group
 When you create a new group, you are creating a new object. This object contains options for configuring the Group information.
 
