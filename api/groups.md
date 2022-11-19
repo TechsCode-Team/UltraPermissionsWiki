@@ -16,7 +16,7 @@ Please see the [instance](./instance.md) guide if you haven't already obtained t
 
 <br>
 
-## Creating a Group
+## Creating a Group {#creating-a-group}
 When you create a new group, you are creating a new object. This object contains options for configuring the Group information.
 
 ```java
