@@ -31,6 +31,8 @@ Here is a list of all the commands that can be used.
   Removes all permissions from the player
 * `/upc PurgeSuperAdmins`
   Removes all Superadmins from UltraPermission.
+* `/upc registerUser <UUID> <PlayerName> <AssignDefaultGroup>`
+  Manually registers a new account based on the provided UUID  
 * `/upc RemoveGroup <User> <Group>`
   Removes a group from a player
 * `/upc RemoveGroupPermission <Group> <Permission>`
