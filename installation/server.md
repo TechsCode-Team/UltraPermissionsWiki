@@ -13,6 +13,7 @@ While your server is starting, look at the console for any possible [ERROR] mess
 
 You should now be able to do `/uperms` to open the GUI.
 
+
 If you see a gui, that means you are good to go!
 <br>
 
