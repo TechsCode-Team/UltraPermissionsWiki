@@ -13,9 +13,14 @@ To retieve the instance you will need to add the following method to your class.
 ```java
 UltraPermissionsAPI api = UltraPermissions.getAPI();
 ```
+
+<br>
+
 Now that we have the instance of the api we are able to do the following;
   - Groups | *Create, remove, alter and get groups*
   - Users | *Get all users and alter there permisssions and groups*
   - Permissinos | *List all permissions and add new once*
 
-[Next part; Managing Groups](./api/groups.md)
+<br>
+
+[Next part; Managing Groups (Ranks)](./api/groups)

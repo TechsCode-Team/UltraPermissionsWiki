@@ -48,10 +48,10 @@ When using methods of our API in the startup of your plugin you will need to add
 <br>
 
 ## Table of contents
-- [Groups](./api/groups) - Managing Groups
 - [Instance](./api/instance) - Getting the API instance
+- [Groups](./api/groups) - Managing Groups (Ranks)
 - [Permissions](./api/permissions) - Managing Permissions
 
 <br>
 
-[**Next part; Using groups (ranks)**](./api/groups.md)
+[**Next part; Getting the API instance**](./api/instance)
