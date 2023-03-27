@@ -1,6 +1,6 @@
 # Overview
 You can use the group method after you've retrieved the API. In the examples, we replace 'upermsApi' for 'UltraPermissions.getAPI()'.
-Please see the [instance](./instance.md) guide if you haven't already obtained the API instance.
+Please see the [instance](./instance) guide if you haven't already obtained the API instance.
 
 <br>
 
@@ -32,6 +32,9 @@ GroupCreator newGroup = upermsApi.newGroup("VIP")
 
 newGroup.create();
 ```
+
+<br>
+
 **NOTE;** .id(int) is required because it is the plugin's group identifier. Duplicate IDs will cause problems!
 
 You can, however, ignore the following methods: `[setIcon, setDefault, setPrefix, setSuffix, setPriority, setServer, setWorld]`

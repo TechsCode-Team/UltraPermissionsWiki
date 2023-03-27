@@ -23,4 +23,4 @@ Now that we have the instance of the api we are able to do the following;
 
 <br>
 
-[Next part; Managing Groups (Ranks)](./api/groups)
+[Next part; Managing Groups (Ranks)](./groups)
