@@ -59,6 +59,10 @@ Here is a list of all the commands that can be used.
   Transferes the selected data from user `<From>` to user `<To>`. Append will append the new incoming datas on the existing one datas of the `<To>` user. Overwrite will remove all existing datas and add the new incoming datas.
 * `/upc Transfer <File|MySQL> <File|MySQL>`
   Transfers storage to either MySQL or File
+* `/promote <User> <Path>`
+  Promotes the user to the next role in the path
+* `/demote <User> <Path>`
+  Demotes the user to the previous role in the path
 <br>
 
 ## Symbols:
