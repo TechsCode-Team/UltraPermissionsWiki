@@ -35,7 +35,9 @@ Here is a list of all the commands that can be used.
   Removes all permissions from the group
 * `/upc PurgePlayerGroups <User>`
   Removes all groups from the player
-* `/upc PurgePlayerPermission <User>`
+* `/upc PurgePlayerPermission <Permission>`
+  Removes the permission from all players
+* `/upc PurgeAllPlayerPermissions <User>`
   Removes all permissions from the player
 * `/upc PurgeSuperAdmins`
   Removes all Superadmins from UltraPermission.
