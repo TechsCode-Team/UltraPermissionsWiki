@@ -1,6 +1,6 @@
 # Import
 With Ultra Permissions you can migrate data from LuckPerms. Before starting the migration process you need to install **Ultra Permissions** and **LuckPerms** in your server. 
-<br>
+
 After you have installed both plugins, connect to your server in-game, and run the command `/uperms` in chat.
 <br>
 

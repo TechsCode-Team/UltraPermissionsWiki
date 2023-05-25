@@ -1,8 +1,8 @@
 # Welcome!
 Welcome to the Wiki page of **Ultra Permissions**! 
-<br>
-Here you can find all the information and documentation. 
-<br>
+
+Here you can find all the information and documentation.
+
 You can navigate the wiki using the sidebar on the right.
 <br>
 
