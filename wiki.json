@@ -15,6 +15,11 @@
         "title":"Placeholders",
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
+      },
+      "permissions": {
+        "title": "Permissions",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" } 
       }
     }
   },

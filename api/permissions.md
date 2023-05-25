@@ -1,1 +1,1 @@
-We are working on our wiki's this page will be added later.
+We are working on our wikis. This page will be added later.

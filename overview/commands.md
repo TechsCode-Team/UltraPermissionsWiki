@@ -1,5 +1,5 @@
 # Commands
-Here is a list of all the commands that can be used.
+Here is the list of all the commands that can be used.
 **`NOTE:` All commands require `SuperAdmin access`.**
 <br>
 
