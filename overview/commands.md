@@ -11,6 +11,9 @@ Here is the list of all the commands that can be used.
   (+ for Adding ; - for Reducing) 
 * `/upc AddGroup <User> <Group> [World|Server] [Time]`
   Add a group to a user
+* `/upc AddGroup <User> <Group> [World|Server] [Operator] [Time]`
+  Add a a group to a user with optional use of Operators
+  (+ = Add, - = Reduce) to add more time or reduce the time.  
 * `/promote <User> <Path>`
   Promotes the user to the next role in the path
 * `/demote <User> <Path>`
