@@ -83,6 +83,11 @@
         "title":"Tab Formatting",
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
+      },
+      "gradient": {
+        "title":"Gradient & HEX",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }        
       }
     }
   },
