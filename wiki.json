@@ -64,7 +64,11 @@
     "prev": { "url": "", "title": "" },
     "next": { "url": "", "title": "" },
     "subItems": {
-
+      "permission_suggestions": {
+        "title":"Permission Suggestions",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      }
     }
   },
   "faq": {

@@ -23,7 +23,7 @@ Here are all the features from Ultra Permissions.
 * **`Permission Log`**
   View the Permission Log to find missing Permissions from recent checks
 * **`Multilingual Support`**
-  So far, we have 11 languages supported and more can be added if needed
+  So far, we have 12 languages supported and more can be added if needed
 * **`Per Player Prefix/Suffix`**
   You can create a prefix or suffix for a specific player without the need of a group.
 * **`Offline Users`**
