@@ -8,20 +8,20 @@
 2. Click on `Player Head` icon named `Users`
 <br>
 
-![Players](https://imgur.com/fCJknTc.png)
+![PlayersMenu](https://imgur.com/fCJknTc.png)
 <br>
 
 3. Click on the `Ender Eye` icon name `Visibility` and it will change into `Ender Pearlc 
 <br>
 
-![Visibility](https://imgur.com/bkVv0yh.png)
+![VisibilityEye](https://imgur.com/bkVv0yh.png)
 <br>
 
 4. Now you can see every player that has joined your server
    and you will be able to manage them if you click on their head
 <br>
 
-![EditPlayer](https://imgur.com/08fZjXi.png)
+![EditPlayerOffline](https://imgur.com/08fZjXi.png)
 <br>
 
 ## Change User's Prefix
@@ -35,7 +35,7 @@ Even if the user is offline, you can still change their prefix/suffix
  - `Right` to edit their `Suffix`
  <br>
 
- ![PrefixSuffix](https://imgur.com/KryvnNh.png) 
+ ![PrefixSuffixEdit](https://imgur.com/KryvnNh.png) 
 <br>
 
 3. Write the prefix in chat and press `ENTER` to confirm it
