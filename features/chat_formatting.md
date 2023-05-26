@@ -8,19 +8,19 @@
 2. Click on the **Tripwire Hook** icon named **Expand**
 <br>
 
-![Expand](https://imgur.com/pAfcron.png)
+![Expand2](https://imgur.com/pAfcron.png)
 <br>
 
 3. Click on the **Command Block** icon named **Settings**
 <br>
 
-![Settings](https://imgur.com/mO8PBGd.png)
+![Settings2](https://imgur.com/mO8PBGd.png)
 <br>
 
 4. Click on the **Name Tag** icon named **Chat & Tab List Format**
 <br>
 
-![Chat&Tab](https://imgur.com/fS48wdW.png)
+![Chat&Tab2](https://imgur.com/fS48wdW.png)
 <br>
 
 5. Left Click on the **Paper** icon named **Chat**
