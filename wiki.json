@@ -69,6 +69,11 @@
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
       },
+      "offline_users": {
+        "title":"Offline Users",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
       "chat_formatting": {
         "title":"Chat Formatting",
         "prev": { "url": "", "title": "" },
