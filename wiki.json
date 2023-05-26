@@ -68,6 +68,16 @@
         "title":"Permission Suggestions",
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
+      },
+      "chat_formatting": {
+        "title":"Chat Formatting",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "tab_formatting": {
+        "title":"Tab Formatting",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       }
     }
   },

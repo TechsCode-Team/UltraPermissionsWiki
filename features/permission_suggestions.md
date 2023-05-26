@@ -1,9 +1,9 @@
 # Permission suggestions
-Plugin will suggest you permissions of installed plugins.
+- Plugin will suggest you permissions of installed plugins
+- **You need to make yourself `SuperAdmin` to be able to work with the plugin!** 
 <br>
 
 ## Navigation:
-
 1. Open the UltraPermissions main GUI using the command `/uperms`
 2. Click on the **Bookshelf** icon named **Groups**
 <br>
