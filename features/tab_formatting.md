@@ -34,7 +34,7 @@
 <br>
 
 ## Placeholders
-These placeholders can be used in the chat formatting
+These placeholders can be used in the tab formatting
 <br>
 
 - {Prefix_color} `->` Color of player's prefix or their 1. group's suffix
