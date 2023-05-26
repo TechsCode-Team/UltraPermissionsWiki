@@ -28,27 +28,25 @@
 
 5. Write your prefix/suffix in the chat and color it 
    like it is shown in the example **below**
-   
+   <br>
    *HEXCODE: `{#RRGGBB}Prefix`*
    *Gradient: `{#RRGGBB>}Prefix{#RRGGBB<}`*
-  <br>
+   <br>
   
   ### **NOTE:** 
   - The gradient prefixes/suffixes work with groups too - Just follow the guide above 
     and instead of selecting **Users** in the second step, select **Groups**
   - You can use our [official gradient maker](https://rgb.techscode.com/) to create your ideal gradient prefix!
-
+  <br>
   ### **EXAMPLE PREFIX:**
   - `{#EFC738>}&lDeveloper{#C809CB<}`
   <br>
-
   ![ExampleGradientPR](https://imgur.com/e1qa12U.png)
   <br>
-
+  
   ### **EXAMPLE SUFFIX:**
   - `{#952FEE>}&lTechsCode{#52A7FD<}`
   <br>
-
   ![ExampleGradientSF](https://imgur.com/8a8PJ9O.png)
   <br>
 
