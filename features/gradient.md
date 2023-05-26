@@ -5,7 +5,6 @@
 
 ## Navigation:
 <br>
-
 1. Open the UltraPermissions main GUI using the command `/uperms`
 2. Click on the **Bookshelf** icon named **Groups**
 <br>
