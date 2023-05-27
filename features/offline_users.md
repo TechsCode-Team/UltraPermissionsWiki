@@ -24,7 +24,7 @@
 ![EditPlayerOffline](https://imgur.com/08fZjXi.png)
 <br>
 
-## Change User's Prefix
+# Change User's Prefix/Suffix
 Even if the user is offline, you can still change their prefix/suffix
 <br>
 
