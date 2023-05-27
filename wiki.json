@@ -69,6 +69,11 @@
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
       },
+      "scoping": {
+        "title":"Scoping",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
       "offline_users": {
         "title":"Offline Users",
         "prev": { "url": "", "title": "" },
