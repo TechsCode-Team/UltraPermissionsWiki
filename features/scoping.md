@@ -57,7 +57,7 @@
   and instead of `Player`, select a group.
 <br>
 
-## Per Server Features
+# Per Server Features
 - You can assign permissions per server for players/groups if you have a proxy
 - **You need to make yourself `SuperAdmin` to be able to work with the plugin!** 
 <br>
