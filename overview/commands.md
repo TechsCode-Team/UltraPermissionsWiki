@@ -21,8 +21,9 @@ Here is the list of all the commands that can be used.
   Demotes the user to the previous role in the path
 * `/upc AddGroupPermission <Group> [-]<Permission> [World|Server] [Time]`
   Add a permission to a group (The `-` makes the permission negative)
-* `/upc AddPlayerPermission <User> [-]<Permission> [World|Server] [Time]`
-  Adds a permission to a player (The `-` makes the permission negative)
+* `/upc AddPlayerPermission <User> [-]<Permission> [World|Server] [Operator] [Time]`
+  Adds a permission to a player (The `-` makes the permission negative) and with
+  optional use of Operators (+ = Add, - = Reduce) to add more time or reduce the time.  
 * `/upc AddSuperAdmin <User>`
   Gives them SuperAdmin access
 * `/upc CopyGroup <Group> <copyGroupName>`
