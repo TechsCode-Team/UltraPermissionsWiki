@@ -7,10 +7,12 @@
 - It is quite simple, you only need 1 command
 <br>
 
-### **Assign to Player:** `/upc AddPlayerPermission [user] [permission] [time]`
+### **Assign to Player:** 
+`/upc AddPlayerPermission [user] [permission] [time]`
 <br>
 
-### **Assign to Group:** `/upc AddGroupPermission [group] [permission] [time]`
+### **Assign to Group:** 
+`/upc AddGroupPermission [group] [permission] [time]`
 <br>
 
 ### Notes:
