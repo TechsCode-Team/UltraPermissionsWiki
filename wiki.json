@@ -74,6 +74,16 @@
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
       },
+      "temp_perms": {
+        "title":"Temporary Permissions",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" } 
+      },
+      "perm_log": {
+        "title":"Permission Logs",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" } 
+      },
       "offline_users": {
         "title":"Offline Users",
         "prev": { "url": "", "title": "" },
