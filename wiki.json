@@ -69,13 +69,13 @@
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
       },
-      "scoping": {
-        "title":"Scoping",
+      "temp_perms": {
+        "title":"Temporary Permissions",
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
       },
-      "temp_perms": {
-        "title":"Temporary Permissions",
+      "scoping": {
+        "title":"Scoping",
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" } 
       },
