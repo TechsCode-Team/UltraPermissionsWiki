@@ -6,18 +6,16 @@ Here is the list of all the commands that can be used.
 
 * `/uperms`
   To open the Administrative GUI
-* `/upc AddGroup <User> <Group> [World|Server] [Time]`
-  Add a group to a user
-* `/upc AddGroup <User> <Group> [World|Server] [Operator] [Time]`
+* `/upc AddGroup <User> <Group> [World|Server] [+|-][Time]`
   Add a a group to a user with optional use of Operators
   (+ = Add, - = Reduce) to add more time or reduce the time.  
+* `/upc AddPlayerPermission <User> [-]<Permission> [World|Server] [+|-][Time]`
+  Adds a permission to a player (The `-` makes the permission negative) and with
+  optional use of Operators (+ = Add, - = Reduce) to add more time or reduce the time.  
 * `/promote <User> <Path>`
   Promotes the user to the next role in the path
 * `/demote <User> <Path>`
   Demotes the user to the previous role in the path
-* `/upc AddPlayerPermission <User> [-]<Permission> [World|Server] [Operator] [Time]`
-  Adds a permission to a player (The `-` makes the permission negative) and with
-  optional use of Operators (+ = Add, - = Reduce) to add more time or reduce the time.  
 * `/upc AddSuperAdmin <User>`
   Gives them SuperAdmin access
 * `/upc CopyGroup <Group> <copyGroupName>`
