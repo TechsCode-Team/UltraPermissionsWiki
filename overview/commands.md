@@ -6,10 +6,6 @@ Here is the list of all the commands that can be used.
 
 * `/uperms`
   To open the Administrative GUI
-* `/upc AddGroup <User> <group> <operator>`
-  Add a group to the user with optional use of operators
-  to reduce or add time to the existing duration of the group
-  (+ for Adding ; - for Reducing) 
 * `/upc AddGroup <User> <Group> [World|Server] [Time]`
   Add a group to a user
 * `/upc AddGroup <User> <Group> [World|Server] [Operator] [Time]`
