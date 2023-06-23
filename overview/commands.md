@@ -4,7 +4,7 @@ Here is the list of all the commands that can be used.
 **`NOTE:` All commands require `SuperAdmin access`.**
 <br>
 
-### Admin Commands
+## Admin Commands
 
 * `/uperms`
   To open the Administrative GUI
@@ -16,7 +16,7 @@ Here is the list of all the commands that can be used.
   Removes all SuperAdmins from UltraPermission.
 <br>
 
-### Group Commands
+## Group Commands
 
 * `/upc AddGroup <User> <Group> [World|Server] [+|-][Time]`
   Add a a group to a user with optional use of Operators
@@ -53,7 +53,7 @@ Demotes the user to the previous role in the path
   Removes all groups from the player
 <br>
 
-### User Commands
+## User Commands
 
 * `/upc AddPlayerPermission <User> [-]<Permission> [World|Server] [+|-][Time]`
   Adds a permission to a player (The `-` makes the permission negative) and with
@@ -74,7 +74,7 @@ Demotes the user to the previous role in the path
   Removes all permissions from the player
 <br>
 
-### Transfer Commands
+## Transfer Commands
 
 * `/upc Transfer <File|MySQL> <File|MySQL>`
   Transfers storage to either MySQL or File
