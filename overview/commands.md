@@ -26,7 +26,7 @@ Here is the list of all the commands that can be used.
 * `/promote <User> <Path>`
   Promotes the user to the next role in the path
 * `/demote <User> <Path>`
-Demotes the user to the previous role in the path
+  Demotes the user to the previous role in the path
 * `/upc CreateGroup <groupName> [Server]`
   Creates a group
 * `/upc DeleteGroup <Group>`

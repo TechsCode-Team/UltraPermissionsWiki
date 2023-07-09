@@ -114,6 +114,13 @@
           "url": "",
           "title": ""
         }
+      },
+      "mariadb": {
+        "title": "File Transfer",
+        "prev": {
+          "url": "",
+          "title": "File Transfer"
+        }
       }
     }
   },
