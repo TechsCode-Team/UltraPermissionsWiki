@@ -24,5 +24,3 @@ is linked to its corresponding, officially named release build of UltraPermissio
 - [Permissions](./permissions) - Managing Permissions
 
 <br>
-
-[**Next part; Getting the API instance**](./instance)
