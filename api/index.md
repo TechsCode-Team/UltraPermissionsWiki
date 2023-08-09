@@ -1,49 +1,20 @@
 # Overview
-To use the api you will need to import it using either Maven or Gradle.
-We do not offer a manual download of our API
-
+This page contains a detailed guide on how to use our API.
 <br>
 
-# Dependency Information
-By both importations you require to replace `{VERSION}` with the latest version number of our API. These can be found [**HERE**](https://repo.techscode.com/#browse/browse:maven-releases:me%2FTechsCode%2FUltraPermissionsAPI)
-
+# Usage
+Our API is designed for developers, allowing you to integrate our plugin seamlessly with your own.
 <br>
 
-## Maven
+We have included Java documentation for our API, along with usage examples listed below.
+To import our API into one of your projects, please refer to one of the following sections:
 
-```xml
-<repository>
-        <id>techscode</id>
-        <url>https://repo.techscode.com/repository/maven-releases/</url>
-</repository>
+- [Maven](./api/maven) - Guide to import with Maven
+- [Gradle](./api/gradle) - Guide to import with Gradle
 
-<dependency>
-    <groupId>me.TechsCode</groupId>
-    <artifactId>UltraPermissionsAPI</artifactId>
-    <version>{VERSION}</version>
-</dependency>
-```
-
-<br>
-
-## Gradle
-```groovy
-repositories {
-    maven {
-      name = 'TechsCodeAPI'
-        url = 'https://repo.techscode.com/repository/maven-releases/'
-    }
-}
-
-dependencies {
-    compileOnly 'me.TechsCode:UltraPermissionsAPI:{VERSION}'
-}
-```
-
-<br>
-
-# Recomendation
-When using methods of our API in the startup of your plugin you will need to add `UltraPermissions` to your softdepend or depend section in your plugin.yml
+Our `Repository Manager` houses all publicly available API versions, each of which
+is linked to its corresponding, officially named release build of UltraPermissions.
+**View all public available** [**versions**](https://repo.techscode.com/#browse/browse:maven-releases:me%2FTechsCode%2FUltraPermissionsAPI)
 
 <br>
 
