@@ -250,19 +250,41 @@
       "title": ""
     },
     "next": {
-      "url": "",
-      "title": ""
+      "url": "https://ultrapermissions.com/wiki/api/instance",
+      "title": "Instance"
     },
     "subItems": {
       "instance": {
         "title": "Instance",
         "prev": {
-          "url": "",
-          "title": ""
+          "url": "https://ultrapermissions.com/wiki/api/",
+          "title": "Overview"
         },
         "next": {
-          "url": "https://ultrapermissions.com/wiki/api/groups",
-          "title": "Groups"
+          "url": "",
+          "title": ""
+        }
+      },
+      "maven": {
+        "title": "Maven",
+        "prev": {
+          "url": "https://ultrapermissions.com/wiki/api/",
+          "title": "Overview"
+        },
+        "next": {
+          "url": "https://ultrapermissions.com/wiki/api/instance",
+          "title": "Instance"
+        }
+      },
+      "gradle": {
+        "title": "Gradle",
+        "prev": {
+          "url": "https://ultrapermissions.com/wiki/api/",
+          "title": "Overview"
+        },
+        "next": {
+          "url": "https://ultrapermissions.com/wiki/api/instance",
+          "title": "Instance"
         }
       },
       "groups": {
