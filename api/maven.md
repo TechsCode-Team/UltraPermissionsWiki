@@ -14,6 +14,7 @@
     <groupId>me.TechsCode</groupId>
     <artifactId>UltraPermissionsAPI</artifactId>
     <version>5.5.2</version>
+    <scope>provided</scope>
 </dependency>
 ```
 
