@@ -10,7 +10,7 @@ repositories {
         }
 }
 dependencies {
-implementation 'me.TechsCode:UltraPermissionsAPI:5.5.2'
+    compileOnly 'me.TechsCode:UltraPermissionsAPI:5.5.2'
 }
 ```
 
