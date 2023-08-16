@@ -19,8 +19,11 @@ Here is the list of all the commands that can be used.
 ## Group Commands
 
 * `/upc AddGroup <User> <Group> [World|Server] [+|-][Time]`
-  Add a a group to a user with optional use of Operators
+  Add a group to a user with optional use of operators,
   (+ = Add, - = Reduce) to add more time or reduce the time.  
+* `/upc AddGroupPermission <Group> <Permission> [World|Server] [+|-][Time]`
+   Add a permission to a group with optional use of operators,
+   (+ = Add, - = Reduce) to add more time or reduce the time.  
 * `/upc RemoveGroup <User> <Group>`
   Removes a group from a player
 * `/promote <User> <Path>`
