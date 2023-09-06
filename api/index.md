@@ -19,8 +19,8 @@ is linked to its corresponding, officially named release build of UltraPermissio
 <br>
 
 ## Table of contents
-- [Instance](./instance) - Getting the API instance
-- [Groups](./groups) - Managing Groups (Ranks)
-- [Permissions](./permissions) - Managing Permissions
+- [Instance](./api/instance) - Getting the API instance
+- [Groups](./api/groups) - Managing Groups (Ranks)
+- [Permissions](./api/permissions) - Managing Permissions
 
 <br>
