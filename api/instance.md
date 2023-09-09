@@ -14,6 +14,8 @@ To retieve the instance you will need to add the following method to your class.
 UltraPermissionsAPI api = UltraPermissions.getAPI();
 ```
 
+*Note: For Bungee use UltraPermissionBungee.class instaid of the UltraPermissions.class!*
+
 <br>
 
 Now that we have the instance of the api we are able to do the following;
