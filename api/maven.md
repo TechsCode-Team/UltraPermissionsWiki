@@ -6,7 +6,7 @@
 <repositories>
     <repository>
         <id>techscode</id>
-        <url>https://repo.techscode.com/repository/maven-releases/</url>
+        <url>https://repo.techscode.com/repository/techscode-apis/</url>
     </repository>
 </repositories>
 
